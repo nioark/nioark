@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**nioark/nioark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Atualmente estou
 
-Here are some ideas to get you started:
+- Aperfeiçoando meu Html e Css
+- Aprendendo novas bibliotecas Javascript
+- Praticando a construção de databases em SQL
+- Melhorando meu gamedev no Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mim
+## ⚡ Minhas habilidades:
+
+![My Skills](https://skills.thijs.gg/icons?i=js,php,mysql,html,css,tailwind,cpp,cs,lua)
+![My Skills](https://skills.thijs.gg/icons?i=linux,vscode,dotnet,unity,godot,git,py,nodejs,mongo,arduino)
+
+![](https://img.shields.io/badge/currently-online-brightgreen)
+![](https://img.shields.io/badge/always-learning-brightgreen)
+![](https://img.shields.io/badge/never-surrendering-red)
