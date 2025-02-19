@@ -10,8 +10,8 @@
 # Sobre mim
 ## ⚡ Minhas habilidades:
 
-![My Skills](https://skills.thijs.gg/icons?i=js,php,mysql,html,css,tailwind,cpp,cs,lua,laravel)
-![My Skills](https://skills.thijs.gg/icons?i=linux,vscode,dotnet,unity,godot,git,py,nodejs,mongo,arduino)
+![My Skills](https://skillicons.dev/icons?i=js,php,mysql,html,css,tailwind,cpp,cs,lua,laravel)
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,dotnet,unity,godot,git,py,nodejs,mongo,arduino)
 
 ![](https://img.shields.io/badge/currently-online-brightgreen)
 ![](https://img.shields.io/badge/always-learning-brightgreen)
