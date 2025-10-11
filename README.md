@@ -2,12 +2,14 @@
 
 ## 🌱 Atualmente estou
 
-- Aperfeiçoando meu Html e Css
-- Aprendendo novas bibliotecas Javascript
-- Praticando a construção de databases em SQL
-- Melhorando meu gamedev no Godot
+- Desenvolvimento Full Stack moderno: Frontend e Backend integrados com boas práticas de arquitetura.
+- APIs GraphQL com C# usando HotChocolate, incluindo Entity Framework, SignalR e dados em tempo real.
+- Arquitetura Schema-Driven Frontend e design de APIs robustas e escaláveis.
+- Construção e otimização de databases SQL e NoSQL, garantindo performance e integridade de dados.
 
 # Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento web, jogos e sistemas integrados. Busco constantemente aprimorar minhas habilidades, explorando novas bibliotecas, frameworks e padrões de arquitetura. Tenho foco em entregar soluções robustas, escaláveis e de alta qualidade, mantendo sempre boas práticas de código e aprendizado contínuo.
+
 ## ⚡ Minhas habilidades:
 
 ![My Skills](https://skillicons.dev/icons?i=js,php,mysql,html,css,tailwind,cpp,cs,lua,laravel)
