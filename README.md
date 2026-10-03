@@ -18,3 +18,5 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 ![](https://img.shields.io/badge/currently-online-brightgreen)
 ![](https://img.shields.io/badge/always-learning-brightgreen)
 ![](https://img.shields.io/badge/never-surrendering-red)
+
+Discord: nioshh
